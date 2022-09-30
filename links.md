@@ -21,6 +21,12 @@ Short explanation about 5C's in cyber security.
 Simple example of sed functionality
 2. [GREP](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
 List of grep command and simple example for grep
+
+# Week 4 🖥️
+1. [Makefile](https://makefiletutorial.com/)<br>
+Simple example of how to make Makefile and why we need Makefile.
+2. [Pointer](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
+Simple introduction about what is a pointer and how to use a pointer.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
