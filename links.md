@@ -27,6 +27,13 @@ List of grep command and simple example for grep
 Simple example of how to make Makefile and why we need Makefile.
 2. [Pointer](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
 Simple introduction about what is a pointer and how to use a pointer.
+
+# Week 5 🖥️
+1. [C](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)<br>
+Explanation what is the meaning of *char.
+2. [HEX](https://www.includehelp.com/c/working-with-hexadecimal-values-in-c-programming-language.aspx)<br>
+Simple introduction about how to working with hexadecimal in C language.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
