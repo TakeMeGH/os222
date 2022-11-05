@@ -34,8 +34,15 @@ Explanation what is the meaning of *char.
 2. [HEX](https://www.includehelp.com/c/working-with-hexadecimal-values-in-c-programming-language.aspx)<br>
 Simple introduction about how to working with hexadecimal in C language.
 
+# Week 6 🖥️
+1. [FORK](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Some simple example about fork and how to using it.
+2. [HEX](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
+Some simple example about pid and how to use GETPID in C.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
