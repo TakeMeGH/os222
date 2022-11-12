@@ -40,6 +40,12 @@ Some simple example about fork and how to using it.
 2. [HEX](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
 Some simple example about pid and how to use GETPID in C.
 
+# Week 7 🖥️
+1. [SCP](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)<br>
+Explanation and example of SCP use case.
+2. [SEMAPHORES](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+Example and explanation of SEMAPHORE in C.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
