@@ -66,3 +66,8 @@ ZCZC W07  40 L32 YouTube: watching OS related topics, etc.
 ZCZC W07  60 L05 Quiz
 ZCZC W07 210 L09 Weekly Assignments
 ZCZC W07  20 L25 C-language including Make.
+ZCZC W08 200 L02 ZOOM related
+ZCZC W08  30 L40 TXT/ related in general.
+ZCZC W08  60 L05 Quiz
+ZCZC W08 370 L09 Weekly Assignments.
+ZCZC W08  60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest

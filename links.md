@@ -46,6 +46,12 @@ Explanation and example of SCP use case.
 2. [SEMAPHORES](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
 Example and explanation of SEMAPHORE in C.
 
+# Week 8 🖥️
+1. [SJF](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)<br>
+SJF explanation and example
+2. [MLQ](https://www.geeksforgeeks.org/multilevel-queue-mlq-cpu-scheduling/)<br>
+MLQ advantages and disadvantages.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
